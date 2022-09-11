@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ZhenyuYu1/1732Presidio.github.io.git/static/css/main.34730330.css",
+    "main.js": "/ZhenyuYu1/1732Presidio.github.io.git/static/js/main.4e811e20.js",
+    "static/media/cyclone.jpg": "/ZhenyuYu1/1732Presidio.github.io.git/static/media/cyclone.0e33e500721d0565c006.jpg",
+    "static/media/canyon.jpg": "/ZhenyuYu1/1732Presidio.github.io.git/static/media/canyon.993a820588ba89d900a5.jpg",
+    "static/media/banner.png": "/ZhenyuYu1/1732Presidio.github.io.git/static/media/banner.0c515cbebb876531d44f.png",
+    "static/media/urbanflood.jpg": "/ZhenyuYu1/1732Presidio.github.io.git/static/media/urbanflood.e252fe9584d0b6d147f6.jpg",
+    "static/media/orissa.jpg": "/ZhenyuYu1/1732Presidio.github.io.git/static/media/orissa.a3032ea595737cb95236.jpg",
+    "static/media/flood.jpg": "/ZhenyuYu1/1732Presidio.github.io.git/static/media/flood.8e097ae6ea0995fd2ea7.jpg",
+    "static/media/heatwave.jpg": "/ZhenyuYu1/1732Presidio.github.io.git/static/media/heatwave.c3715ef945488ff9ec54.jpg",
+    "static/media/earthquake.jpg": "/ZhenyuYu1/1732Presidio.github.io.git/static/media/earthquake.32b6232a00fcc8a3076d.jpg",
+    "static/media/tsunami.jpg": "/ZhenyuYu1/1732Presidio.github.io.git/static/media/tsunami.259a21c3b7f772a3325f.jpg",
+    "static/media/logo.jpg": "/ZhenyuYu1/1732Presidio.github.io.git/static/media/logo.f0fe9310a8e443063c42.jpg",
+    "index.html": "/ZhenyuYu1/1732Presidio.github.io.git/index.html",
+    "main.34730330.css.map": "/ZhenyuYu1/1732Presidio.github.io.git/static/css/main.34730330.css.map",
+    "main.4e811e20.js.map": "/ZhenyuYu1/1732Presidio.github.io.git/static/js/main.4e811e20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34730330.css",
+    "static/js/main.4e811e20.js"
+  ]
+}
